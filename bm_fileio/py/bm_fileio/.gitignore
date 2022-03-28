@@ -1,0 +1,7 @@
+# python相关
+/*.egg-info
+/Pipfile
+/*.lock
+/build/
+/dist/
+/**/*.pyc
